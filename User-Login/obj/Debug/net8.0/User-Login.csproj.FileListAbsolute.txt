@@ -71,7 +71,6 @@ C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-L
 C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\obj\Debug\net8.0\User-Login.csproj.CoreCompileInputs.cache
 C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\obj\Debug\net8.0\User-Login.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\obj\Debug\net8.0\User-Login.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\obj\Debug\net8.0\User-Login.sourcelink.json
 C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\obj\Debug\net8.0\scopedcss\bundle\User-Login.styles.css
 C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\obj\Debug\net8.0\staticwebassets.development.json
@@ -155,3 +154,13 @@ C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-L
 C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\Business.dll
+C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\Business.pdb
+C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\ServiceStack.dll
+C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\ServiceStack.Client.dll
+C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\ServiceStack.Common.dll
+C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+C:\Users\Asus\OneDrive\İş masası\InternIntelligence\InternIntelligence_User-Login\User-Login\bin\Debug\net8.0\ServiceStack.Text.dll

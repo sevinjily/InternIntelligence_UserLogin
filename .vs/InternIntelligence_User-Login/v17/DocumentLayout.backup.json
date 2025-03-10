@@ -3,36 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary2\\Migrations\\20250308201243_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClassLibrary2\\Migrations\\20250308201243_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC46536E-062C-407E-8E3B-9201D2E60761}|ClassLibrary2\\DataAccess.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary2\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC46536E-062C-407E-8E3B-9201D2E60761}|ClassLibrary2\\DataAccess.csproj|solutionrelative:classlibrary2\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64B6EF9E-C7C4-455B-860B-6389D79C87B8}|Entities\\Entities.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\entities\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64B6EF9E-C7C4-455B-860B-6389D79C87B8}|Entities\\Entities.csproj|solutionrelative:entities\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2F6C90C-17D2-4E4F-AB32-99E779D4844D}|User-Login\\User-Login.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\user-login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2F6C90C-17D2-4E4F-AB32-99E779D4844D}|User-Login\\User-Login.csproj|solutionrelative:user-login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2F6C90C-17D2-4E4F-AB32-99E779D4844D}|User-Login\\User-Login.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\user-login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2F6C90C-17D2-4E4F-AB32-99E779D4844D}|User-Login\\User-Login.csproj|solutionrelative:user-login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2F6C90C-17D2-4E4F-AB32-99E779D4844D}|User-Login\\User-Login.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\user-login\\user-login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2F6C90C-17D2-4E4F-AB32-99E779D4844D}|User-Login\\User-Login.csproj|solutionrelative:user-login\\user-login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary1\\fluentvalidation\\registerdtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|solutionrelative:classlibrary1\\fluentvalidation\\registerdtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B6EF9E-C7C4-455B-860B-6389D79C87B8}|Entities\\Entities.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\entities\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B6EF9E-C7C4-455B-860B-6389D79C87B8}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary1\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|solutionrelative:classlibrary1\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary1\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|solutionrelative:classlibrary1\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F6C90C-17D2-4E4F-AB32-99E779D4844D}|User-Login\\User-Login.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\user-login\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F6C90C-17D2-4E4F-AB32-99E779D4844D}|User-Login\\User-Login.csproj|solutionrelative:user-login\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary1\\results\\concrete\\errorresult\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|solutionrelative:classlibrary1\\results\\concrete\\errorresult\\errorresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary1\\results\\concrete\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|solutionrelative:classlibrary1\\results\\concrete\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary1\\results\\abstract\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|solutionrelative:classlibrary1\\results\\abstract\\iresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64B6EF9E-C7C4-455B-860B-6389D79C87B8}|Entities\\Entities.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\entities\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64B6EF9E-C7C4-455B-860B-6389D79C87B8}|Entities\\Entities.csproj|solutionrelative:entities\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC46536E-062C-407E-8E3B-9201D2E60761}|ClassLibrary2\\DataAccess.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary2\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BC46536E-062C-407E-8E3B-9201D2E60761}|ClassLibrary2\\DataAccess.csproj|solutionrelative:classlibrary2\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary1\\dependencyresolver\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|solutionrelative:classlibrary1\\dependencyresolver\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary1\\message\\abstract\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|solutionrelative:classlibrary1\\message\\abstract\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary1\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|solutionrelative:classlibrary1\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary1\\message\\concrete\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|solutionrelative:classlibrary1\\message\\concrete\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary1\\results\\concrete\\successresult\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5135F515-DEBB-4E08-BB44-5DE709D4153E}|ClassLibrary1\\Business.csproj|solutionrelative:classlibrary1\\results\\concrete\\successresult\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64B6EF9E-C7C4-455B-860B-6389D79C87B8}|Entities\\Entities.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{64B6EF9E-C7C4-455B-860B-6389D79C87B8}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B6EF9E-C7C4-455B-860B-6389D79C87B8}|Entities\\Entities.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\entities\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B6EF9E-C7C4-455B-860B-6389D79C87B8}|Entities\\Entities.csproj|solutionrelative:entities\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC46536E-062C-407E-8E3B-9201D2E60761}|ClassLibrary2\\DataAccess.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary2\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC46536E-062C-407E-8E3B-9201D2E60761}|ClassLibrary2\\DataAccess.csproj|solutionrelative:classlibrary2\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F6C90C-17D2-4E4F-AB32-99E779D4844D}|User-Login\\User-Login.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\user-login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2F6C90C-17D2-4E4F-AB32-99E779D4844D}|User-Login\\User-Login.csproj|solutionrelative:user-login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC46536E-062C-407E-8E3B-9201D2E60761}|ClassLibrary2\\DataAccess.csproj|c:\\users\\asus\\onedrive\\\u0130\u015F masas\u0131\\internintelligence\\internintelligence_user-login\\classlibrary2\\migrations\\20250309183620_init-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC46536E-062C-407E-8E3B-9201D2E60761}|ClassLibrary2\\DataAccess.csproj|solutionrelative:classlibrary2\\migrations\\20250309183620_init-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,81 +106,254 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250308201243_Init.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary2\\Migrations\\20250308201243_Init.cs",
-              "RelativeDocumentMoniker": "ClassLibrary2\\Migrations\\20250308201243_Init.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary2\\Migrations\\20250308201243_Init.cs",
-              "RelativeToolTip": "ClassLibrary2\\Migrations\\20250308201243_Init.cs",
+              "DocumentIndex": 1,
+              "Title": "User-Login",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\User-Login.csproj",
+              "RelativeDocumentMoniker": "User-Login\\User-Login.csproj",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\User-Login.csproj*",
+              "RelativeToolTip": "User-Login\\User-Login.csproj*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T20:12:43.688Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T19:33:36.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RegisterDTOValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\FluentValidation\\RegisterDTOValidation.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\FluentValidation\\RegisterDTOValidation.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\FluentValidation\\RegisterDTOValidation.cs*",
+              "RelativeToolTip": "ClassLibrary1\\FluentValidation\\RegisterDTOValidation.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:13:48.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Concrete\\AuthManager.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Concrete\\AuthManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Concrete\\AuthManager.cs",
+              "RelativeToolTip": "ClassLibrary1\\Concrete\\AuthManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAzwC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:56:50.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "User-Login\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "User-Login\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:19:56.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\Program.cs",
+              "RelativeDocumentMoniker": "User-Login\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\Program.cs*",
+              "RelativeToolTip": "User-Login\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:38:48.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorResult.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Results\\Concrete\\ErrorResult\\ErrorResult.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Results\\Concrete\\ErrorResult\\ErrorResult.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Results\\Concrete\\ErrorResult\\ErrorResult.cs",
+              "RelativeToolTip": "ClassLibrary1\\Results\\Concrete\\ErrorResult\\ErrorResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:24:30.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Results\\Concrete\\Result.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Results\\Concrete\\Result.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Results\\Concrete\\Result.cs",
+              "RelativeToolTip": "ClassLibrary1\\Results\\Concrete\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:24:52.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\Entities\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Entities\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\Entities\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "Entities\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:42:03.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Abstract\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Abstract\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Abstract\\IAuthService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Abstract\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:56:42.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IResult.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Results\\Abstract\\IResult.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Results\\Abstract\\IResult.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Results\\Abstract\\IResult.cs",
+              "RelativeToolTip": "ClassLibrary1\\Results\\Abstract\\IResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:16:58.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Business.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Business.csproj",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Business.csproj*",
+              "RelativeToolTip": "ClassLibrary1\\Business.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T17:36:00.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\Entities\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\Entities\\Model\\User.cs",
+              "RelativeToolTip": "Entities\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:21:00.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Message\\Abstract\\IMessageService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Message\\Abstract\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Message\\Abstract\\IMessageService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Message\\Abstract\\IMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:10:24.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250309183620_Init-1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary2\\Migrations\\20250309183620_Init-1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\Migrations\\20250309183620_Init-1.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary2\\Migrations\\20250309183620_Init-1.cs",
+              "RelativeToolTip": "ClassLibrary2\\Migrations\\20250309183620_Init-1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:36:20.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\DependencyResolver\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DependencyResolver\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\DependencyResolver\\ServiceRegistration.cs",
+              "RelativeToolTip": "ClassLibrary1\\DependencyResolver\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:37:30.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Message\\Concrete\\MessageService.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Message\\Concrete\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Message\\Concrete\\MessageService.cs",
+              "RelativeToolTip": "ClassLibrary1\\Message\\Concrete\\MessageService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:11:18.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SuccessResult.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Results\\Concrete\\SuccessResult\\SuccessResult.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Results\\Concrete\\SuccessResult\\SuccessResult.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary1\\Results\\Concrete\\SuccessResult\\SuccessResult.cs",
+              "RelativeToolTip": "ClassLibrary1\\Results\\Concrete\\SuccessResult\\SuccessResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:24:24.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\Entities\\Model\\Role.cs",
               "RelativeDocumentMoniker": "Entities\\Model\\Role.cs",
               "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\Entities\\Model\\Role.cs",
               "RelativeToolTip": "Entities\\Model\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T20:05:58.516Z"
+              "WhenOpened": "2025-03-08T20:05:58.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\appsettings.json",
-              "RelativeDocumentMoniker": "User-Login\\appsettings.json",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\appsettings.json",
-              "RelativeToolTip": "User-Login\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-08T19:50:57.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\Program.cs",
-              "RelativeDocumentMoniker": "User-Login\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\Program.cs",
-              "RelativeToolTip": "User-Login\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T19:38:48.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary2\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ClassLibrary2\\Context\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary2\\Context\\AppDbContext.cs",
               "RelativeToolTip": "ClassLibrary2\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T19:21:51.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DataAccess.csproj",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary2\\DataAccess.csproj",
-              "RelativeDocumentMoniker": "ClassLibrary2\\DataAccess.csproj",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\ClassLibrary2\\DataAccess.csproj",
-              "RelativeToolTip": "ClassLibrary2\\DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-08T19:22:09.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Entities.csproj",
               "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\Entities\\Entities.csproj",
               "RelativeDocumentMoniker": "Entities\\Entities.csproj",
@@ -136,19 +361,21 @@
               "RelativeToolTip": "Entities\\Entities.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-08T19:20:17.533Z"
+              "WhenOpened": "2025-03-08T19:20:17.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\Entities\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Entities\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\Entities\\Model\\User.cs",
-              "RelativeToolTip": "Entities\\Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T19:21:00.301Z"
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\appsettings.json",
+              "RelativeDocumentMoniker": "User-Login\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0130\u015F masas\u0131\\InternIntelligence\\InternIntelligence_User-Login\\User-Login\\appsettings.json",
+              "RelativeToolTip": "User-Login\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T19:50:57.842Z",
+              "EditorCaption": ""
             }
           ]
         },
