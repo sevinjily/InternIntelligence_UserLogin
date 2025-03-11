@@ -1,6 +1,7 @@
-﻿using System.Net;
+﻿using Business.Utilities.Results.Concrete;
+using System.Net;
 
-namespace Business.Results.Concrete.SuccessResult
+namespace Business.Utilities.Results.Concrete.SuccessResult
 {
    public class SuccessResult:Result
     {

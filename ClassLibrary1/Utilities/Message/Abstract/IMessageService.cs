@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Business.Message.Abstract
+namespace Business.Utilities.Message.Abstract
 {
    public interface IMessageService
     {

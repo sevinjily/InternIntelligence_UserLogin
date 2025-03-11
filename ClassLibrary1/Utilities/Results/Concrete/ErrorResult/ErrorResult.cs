@@ -1,6 +1,7 @@
-﻿using System.Net;
+﻿using Business.Utilities.Results.Concrete;
+using System.Net;
 
-namespace Business.Results.Concrete.ErrorResult
+namespace Business.Utilities.Results.Concrete.ErrorResult
 {
    public class ErrorResult:Result
     {

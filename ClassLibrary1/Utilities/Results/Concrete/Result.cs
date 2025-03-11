@@ -1,7 +1,7 @@
-﻿using Business.Results.Abstract;
+﻿using Business.Utilities.Results.Abstract;
 using System.Net;
 
-namespace Business.Results.Concrete
+namespace Business.Utilities.Results.Concrete
 {
     public class Result:IResult
     {

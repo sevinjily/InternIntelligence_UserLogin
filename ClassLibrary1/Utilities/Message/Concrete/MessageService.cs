@@ -1,5 +1,4 @@
-﻿using Business.Message.Abstract;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Mail;
@@ -7,8 +6,9 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
+using Business.Utilities.Message.Abstract;
 
-namespace Business.Message.Concrete
+namespace Business.Utilities.Message.Concrete
 {
     public class MessageService : IMessageService
     {
@@ -27,7 +27,7 @@ namespace Business.Message.Concrete
             mailMessage.To.Add(to);
             mailMessage.Body = message;
             mailMessage.Subject = subject;
-            mailMessage.From = new(_configuration["EmailSettings:Email"], "BigDataCO", System.Text.Encoding.UTF8);
+            mailMessage.From = new(_configuration["EmailSettings:Email"], "HelloCompany", Encoding.UTF8);
 
             SmtpClient smtpClient = new()
             {

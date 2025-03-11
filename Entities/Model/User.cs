@@ -14,6 +14,8 @@ namespace Entities.Model
         public string? OTP { get; set; }
         public DateTime? ExpiredDate { get; set; }
         public int FailedAttempts { get; set; }
+        public string? RefreshToken { get; set; }
+        public DateTime? RefreshTokenExpiredDate { get; set; }
         //public string Email { get; set; }
 
     }

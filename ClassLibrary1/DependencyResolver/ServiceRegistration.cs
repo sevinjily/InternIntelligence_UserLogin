@@ -1,9 +1,9 @@
 ﻿using Business.Abstract;
 using Business.Concrete;
-using Business.Message.Abstract;
-using Business.Message.Concrete;
-using Business.Results.Abstract;
-using Business.Results.Concrete;
+using Business.Utilities.Message.Abstract;
+using Business.Utilities.Message.Concrete;
+using Business.Utilities.Security.Abstract;
+using Business.Utilities.Security.Concrete;
 using DataAccess.Context;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -16,7 +16,9 @@ namespace Business.DependencyResolver
             //IoC-inversion of Control
             services.AddScoped<AppDbContext>();
             services.AddScoped<IAuthService, AuthManager>();
+            services.AddScoped<ITokenService,TokenManager>();
             services.AddScoped<IMessageService, MessageService>();
+
         }
-        }
+    }
 }
