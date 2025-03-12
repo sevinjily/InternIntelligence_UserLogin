@@ -1,15 +1,17 @@
 using Business.DependencyResolver;
+using Business.FluentValidation;
 using DataAccess.Context;
 using Entities.Model;
 using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.RateLimiting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using ServiceStack.MiniProfiler;
 using System.Security.Claims;
 using System.Text;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,6 +32,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddIdentity<User,Role>()
       .AddEntityFrameworkStores<AppDbContext>()
         .AddDefaultTokenProviders();
+
 builder.Services.AddSwaggerGen(x =>
 {
     x.SwaggerDoc("v1", new OpenApiInfo
@@ -90,10 +93,23 @@ builder.Services.AddAuthentication(auth =>
         NameClaimType = ClaimTypes.Email
     };
 });
-FluentValidationMvcExtensions.AddFluentValidation(builder.Services.AddControllersWithViews(), x =>
+builder.Services.AddControllers()
+    .AddFluentValidation(fv =>
+    {
+        fv.RegisterValidatorsFromAssemblyContaining<LoginDTOValidation>(); // LoginDTOValidator
+        fv.RegisterValidatorsFromAssemblyContaining<RegisterDTOValidation>(); // RegisterDTOValidator
+        fv.ValidatorOptions.LanguageManager.Culture = new System.Globalization.CultureInfo("en");
+    });
+
+//Rate Limiting: Prevent brute-force attacks.
+builder.Services.AddRateLimiter(options =>
 {
-    x.RegisterValidatorsFromAssemblyContaining<Program>();
-    x.ValidatorOptions.LanguageManager.Culture = new System.Globalization.CultureInfo("az");
+    options.AddFixedWindowLimiter("fixed", limiterOptions =>
+    {
+        limiterOptions.Window = TimeSpan.FromMinutes(1); 
+        limiterOptions.PermitLimit = 5; 
+        limiterOptions.QueueLimit = 0;
+    });
 });
 
 var app = builder.Build();
@@ -106,6 +122,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseRateLimiter(); 
 
 app.UseAuthorization();
 

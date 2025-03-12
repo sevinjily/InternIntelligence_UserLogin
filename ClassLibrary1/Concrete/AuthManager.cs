@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Business.FluentValidation;
 using Business.Utilities.Message.Abstract;
 using Business.Utilities.Results.Abstract;
 using Business.Utilities.Results.Concrete.ErrorResult;
@@ -155,6 +156,16 @@ namespace Business.Concrete
 
         public async Task<IDataResult<Token>> LoginAsync(LoginDTO loginDTO)
         {
+            var validator = new LoginDTOValidation();
+            var validationResult = await validator.ValidateAsync(loginDTO);
+
+            if (!validationResult.IsValid)
+            {
+                // Validasiya uğursuz oldusa, səhv mesajlarını qaytar
+                var errors = validationResult.Errors.Select(e => e.ErrorMessage).ToList();
+                return new ErrorDataResult<Token>(message: string.Join(", ", errors), HttpStatusCode.BadRequest);
+            }
+
             var findUser = await _userManager.FindByEmailAsync(loginDTO.UsernameOrEmail);
             if (findUser == null)
                 findUser = await _userManager.FindByNameAsync(loginDTO.UsernameOrEmail);

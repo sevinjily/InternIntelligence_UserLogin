@@ -2,6 +2,7 @@
 using Entities.DTOs;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.RateLimiting;
 using System.Security.Claims;
 
 namespace User_Login.Controllers
@@ -36,13 +37,14 @@ namespace User_Login.Controllers
 
         }
         [HttpPost("[action]")]
+        [EnableRateLimiting("fixed")]
         public async Task<IActionResult> Login([FromBody] LoginDTO loginDTO)
         {
             var result = await _authService.LoginAsync(loginDTO);
             if (result.Success)
                 return Ok(result);
 
-            return BadRequest();
+            return BadRequest(result);
         }
         [HttpPost("refreshToken")]
         public async Task<IActionResult> RefreshTokenLogin([FromBody] RefreshTokenDTO refreshTokenDTO)

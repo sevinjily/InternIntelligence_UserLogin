@@ -307,7 +307,7 @@
           "dependencies": {
             "FluentValidation.AspNetCore": {
               "target": "Package",
-              "version": "[11.3.0, )"
+              "version": "[11.0.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
